@@ -9,7 +9,7 @@
 
 - .👨‍💻 All of my projects are available at [https://github.com/yuvraj6299](https://github.com/yuvraj6299)
 
-- .📫 How to reach me **yuvrajsingh260909@gamil.com
+- .📫 How to reach me **yuvrajsingh260909@gamil.com**
 
 - .🤝I`m looking to collaborate on Open Source Contributions.**
 
