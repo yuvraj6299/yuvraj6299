@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj6299&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj6299" /> </p>
 
-- .🔭 I’m currently Working on Data Structure and Algorithm + Competitive Programming** 
+- .🔭 I’m currently Working on Data Structure and Algorithm + Competitive Programming
 
 - .🌱 I’m currently learning **MERN Stack Web Development**
 
 - .👨‍💻 All of my projects are available at [https://github.com/yuvraj6299](https://github.com/yuvraj6299)
 
-- .📫 How to reach me **yuvrajsingh260909@gamil.com**
+- .📫 How to reach me **yuvrajsingh260909@gamil.com
 
 - .🤝I`m looking to collaborate on Open Source Contributions.**
 
