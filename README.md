@@ -11,7 +11,7 @@
 
 - .📫 How to reach me **yuvrajsingh260909@gamil.com**
 
-- .🤝I`m looking to collaborate on Open Source Contributions.**
+- .🤝I`m looking to collaborate on Open Source Contributions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
