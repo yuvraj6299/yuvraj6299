@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm YUVRAJ</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" scr=">
+<h3 align="center">I am a B.Tech student from Kurukshetra University,Haryana pursuing Computer Engineering.💡Constantly learning code and creativity 🚀.I love to connect with new people 🤝and admire everyone having a passion for coding✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj6299&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj6299" /> </p>
 
-- 🌱 I’m currently learning **DSA problem solving, MERN Stack Web Development**
+- .🔭 I’m currently Working on Data Structure and Algorithm + Competitive Programming** 
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/](www.linkedin.com/in/)
+- .🌱 I’m currently learning **MERN Stack Web Development**
 
-- 💬 Ask me about **C,C++,STL, Operating System, DSA**
+- .👨‍💻 All of my projects are available at [https://github.com/yuvraj6299](https://github.com/yuvraj6299)
 
-- 📫 How to reach me **yuvrajsingh260909@gamil.com**
+- .📫 How to reach me **yuvrajsingh260909@gamil.com**
+
+- .🤝I`m looking to collaborate on Open Source Contributions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
